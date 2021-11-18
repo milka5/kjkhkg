@@ -1,0 +1,57 @@
+body{
+    background-color:palegoldenrod;
+
+}
+h1{
+    color:black;
+}
+body a{
+    color:slateblue;
+    margin-top: 3%;
+    display: block;
+}
+body p{
+    color:purple;
+    margin-top: 2%;
+    display: block;
+}
+body #link:link{
+    color:orchid;
+}
+body #hover:hover{
+    color:mediumorchid;
+}
+body #active:active{
+    color:mediumslateblue;
+}
+body #focus:focus{
+    color:midnightblue;
+}
+body input{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+body li#last-child{
+    font-weight: bold;
+}
+body li:last-child{
+    color: deeppink;
+}
+body li#ONLY-CHILD{
+    text-transform: uppercase;
+
+}
+body article{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+body article p:first-of-type{
+    font-weight: bold;
+}
+body article p:last-of-type{
+    color:deepskyblue;    
+}
+body article span:ONLY-OF-TYPE{
+    text-transform:uppercase;
+}
